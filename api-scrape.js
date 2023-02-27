@@ -83,6 +83,7 @@ const getIds = async (
         }
         // result = nestedObj;
       } else {
+        let originalNewValues = newValues;
         for (let value of assetInformation?.attributes?.values) {
           // Find the index of the object to be replaced
           const newObject = {
@@ -104,7 +105,7 @@ const getIds = async (
           // } else {
           //   newValues.push(value);
           // }
-          await recursion([...attrPacketNew], newValues);
+          await recursion([...attrPacketNew], [...originalNewValues, value]);
         }
       }
     } catch (error) {
@@ -133,6 +134,9 @@ const apiScrape = async (url) => {
       for (let brand of brands) {
         const brandName = brand?.name;
         if (brandName === "Apple") {
+          continue;
+        }
+        if (brandName === "Samsung") {
           continue;
         }
         result[categoryName][brandName] = {};
