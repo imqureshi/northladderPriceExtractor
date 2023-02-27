@@ -1,0 +1,521 @@
+{
+  "Mobile Phone": {
+    "Huawei": {
+      "Mate Series": {
+        "Mate X Series": {
+          "Mate XS2": {
+            "512 GB": {
+              "sellAmount": 1580,
+              "512 GB": { "sellAmount": 1625, "512 GB": { "sellAmount": 760 } }
+            }
+          }
+        },
+        "Mate 9 Series": {
+          "Mate 9 Pro": {
+            "64 GB": {
+              "sellAmount": 75,
+              "128 GB": {
+                "Mate 9 (Porsche Design)": { "64 GB": { "sellAmount": 140 } }
+              }
+            }
+          }
+        },
+        "Mate 40 Series": {
+          "Mate 40 RS (Porsche Design)": {
+            "512 GB": {
+              "sellAmount": 925,
+              "256 GB": {
+                "sellAmount": 810,
+                "256 GB": { "sellAmount": 640, "512 GB": { "sellAmount": 710 } }
+              }
+            }
+          }
+        },
+        "Mate 30 Series": {
+          "Mate 30 Pro (5G)": {
+            "512 GB": {
+              "sellAmount": 600,
+              "256 GB": {
+                "sellAmount": 580,
+                "128 GB": { "sellAmount": 500, "256 GB": { "sellAmount": 560 } }
+              }
+            }
+          }
+        },
+        "Mate 20 Series": {
+          "Mate 20 X (5G)": {
+            "256 GB": {
+              "sellAmount": 825,
+              "128 GB": { "sellAmount": 810, "256 GB": { "sellAmount": 355 } }
+            }
+          }
+        },
+        "Mate 10 Series": {
+          "Mate 10 Pro": {
+            "64 GB": {
+              "sellAmount": 30,
+              "128 GB": {
+                "sellAmount": 140,
+                "Mate 10 Porsche Design": {
+                  "256 GB": {
+                    "sellAmount": 345,
+                    "64 GB": {
+                      "sellAmount": 105,
+                      "64 GB": { "sellAmount": 90 }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "256 GB": {
+        "Mate 40 Series": {
+          "Mate 40 RS (Porsche Design)": {
+            "512 GB": {
+              "256 GB": {
+                "256 GB": {
+                  "512 GB": {
+                    "sellAmount": 640,
+                    "128 GB": { "sellAmount": 320 }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Mate 20 Series": {
+          "Mate 20 X (5G)": {
+            "256 GB": {
+              "128 GB": {
+                "256 GB": { "Mate 20 Pro": { "512 GB": { "sellAmount": 300 } } }
+              }
+            }
+          }
+        },
+        "P50 Series": {
+          "P50 Pro": {
+            "256 GB": {
+              "128 GB": {
+                "P50 Pocket": {
+                  "512 GB": {
+                    "sellAmount": 1235,
+                    "256 GB": { "sellAmount": 495 }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "P40 Series": {
+          "P40 Pro Plus (5G)": {
+            "512 GB": {
+              "256 GB": {
+                "512 GB": {
+                  "sellAmount": 695,
+                  "128 GB": {
+                    "sellAmount": 640,
+                    "512 GB": {
+                      "sellAmount": 610,
+                      "P40 Lite E": {
+                        "64 GB": {
+                          "sellAmount": 85,
+                          "128 GB": {
+                            "sellAmount": 155,
+                            "512 GB": { "sellAmount": 255 }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "P30 Series": {
+          "P30 Pro": {
+            "512 GB": {
+              "256 GB": {
+                "128 GB": { "P30 Lite": { "64 GB": { "sellAmount": 275 } } }
+              }
+            }
+          }
+        }
+      },
+      "128 GB": {
+        "Mate 30 Series": {
+          "Mate 30 Pro (5G)": {
+            "512 GB": {
+              "256 GB": {
+                "128 GB": {
+                  "256 GB": {
+                    "sellAmount": 500,
+                    "256 GB": {
+                      "sellAmount": 325,
+                      "128 GB": { "sellAmount": 290 }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Mate 20 Series": {
+          "Mate 20 X (5G)": {
+            "256 GB": {
+              "128 GB": {
+                "256 GB": {
+                  "sellAmount": 270,
+                  "Mate 20 Pro": {
+                    "512 GB": {
+                      "sellAmount": 300,
+                      "Mate 20 Lite": {
+                        "64 GB": {
+                          "sellAmount": 125,
+                          "64 GB": { "sellAmount": 220 }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Nova 9 Series": {
+          "Nova 9 SE": {
+            "128 GB": { "Nova 9": { "256 GB": { "sellAmount": 325 } } }
+          }
+        },
+        "Nova 8 Series": {
+          "Nova 8i": {
+            "128 GB": { "Nova 8": { "256 GB": { "sellAmount": 310 } } }
+          }
+        },
+        "Nova 7 Series": {
+          "Nova 7i": {
+            "64 GB": {
+              "128 GB": {
+                "Nova 7SE": {
+                  "256 GB": {
+                    "sellAmount": 175,
+                    "256 GB": {
+                      "sellAmount": 270,
+                      "256 GB": { "sellAmount": 360 }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Nova 3 Series": {
+          "Nova 3i": {
+            "64 GB": {
+              "128 GB": {
+                "64 GB": { "sellAmount": 185, "64 GB": { "sellAmount": 150 } }
+              }
+            }
+          }
+        },
+        "P50 Series": {
+          "P50 Pro": {
+            "256 GB": {
+              "128 GB": {
+                "P50 Pocket": { "512 GB": { "256 GB": { "sellAmount": 475 } } }
+              }
+            }
+          }
+        },
+        "P40 Series": {
+          "P40 Pro Plus (5G)": {
+            "512 GB": {
+              "256 GB": {
+                "512 GB": {
+                  "128 GB": {
+                    "512 GB": {
+                      "P40 Lite E": {
+                        "64 GB": {
+                          "128 GB": {
+                            "512 GB": {
+                              "sellAmount": 235,
+                              "256 GB": { "sellAmount": 410 }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "P30 Series": {
+          "P30 Pro": {
+            "512 GB": {
+              "256 GB": {
+                "128 GB": { "P30 Lite": { "64 GB": { "sellAmount": 215 } } }
+              }
+            }
+          }
+        },
+        "P20 Series": {
+          "P20 Pro": {
+            "64 GB": {
+              "256 GB": {
+                "128 GB": {
+                  "64 GB": { "sellAmount": 110, "64 GB": { "sellAmount": 215 } }
+                }
+              }
+            }
+          }
+        },
+        "Y9 Series": {
+          "Y9s": {
+            "128 GB": {
+              "128 GB": {
+                "Y9 Prime": {
+                  "64 GB": { "sellAmount": 230, "64 GB": { "sellAmount": 155 } }
+                }
+              }
+            }
+          }
+        }
+      },
+      "512 GB": {
+        "Mate 20 Series": {
+          "Mate 20 X (5G)": {
+            "256 GB": {
+              "128 GB": {
+                "256 GB": {
+                  "Mate 20 Pro": {
+                    "512 GB": {
+                      "Mate 20 Lite": {
+                        "64 GB": { "64 GB": { "sellAmount": 290 } }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Nova Series": {
+        "Nova Y Series": { "Nova Y70": { "128 GB": { "sellAmount": 230 } } },
+        "Nova 9 Series": {
+          "Nova 9 SE": {
+            "128 GB": {
+              "sellAmount": 290,
+              "Nova 9": { "256 GB": { "sellAmount": 420 } }
+            }
+          }
+        },
+        "Nova 8 Series": {
+          "Nova 8i": {
+            "128 GB": {
+              "sellAmount": 300,
+              "Nova 8": { "256 GB": { "sellAmount": 355 } }
+            }
+          }
+        },
+        "Nova 7 Series": {
+          "Nova 7i": {
+            "64 GB": {
+              "sellAmount": 175,
+              "128 GB": {
+                "sellAmount": 215,
+                "Nova 7SE": { "256 GB": { "sellAmount": 300 } }
+              }
+            }
+          }
+        },
+        "Nova 6 Series": { "Nova 6 (5G)": { "256 GB": { "sellAmount": 180 } } },
+        "Nova 5 Series": { "Nova 5T": { "128 GB": { "sellAmount": 370 } } },
+        "Nova 4 Series": { "Nova 4": { "128 GB": { "sellAmount": 235 } } },
+        "Nova 3 Series": {
+          "Nova 3i": {
+            "64 GB": {
+              "sellAmount": 130,
+              "128 GB": { "sellAmount": 120, "64 GB": { "sellAmount": 120 } }
+            }
+          }
+        },
+        "Nova 2 Series": {
+          "Nova 2 Plus": {
+            "64 GB": { "sellAmount": 80, "128 GB": { "sellAmount": 85 } }
+          }
+        },
+        "Nova 10 Series": {
+          "Nova 10 SE": {
+            "256 GB": {
+              "sellAmount": 410,
+              "128 GB": { "sellAmount": 310, "256 GB": { "sellAmount": 580 } }
+            }
+          }
+        }
+      },
+      "P Series": {
+        "P50 Series": {
+          "P50 Pro": {
+            "256 GB": {
+              "sellAmount": 990,
+              "128 GB": {
+                "sellAmount": 525,
+                "P50 Pocket": { "512 GB": { "sellAmount": 1440 } }
+              }
+            }
+          }
+        },
+        "P40 Series": {
+          "P40 Pro Plus (5G)": {
+            "512 GB": {
+              "sellAmount": 1125,
+              "256 GB": { "sellAmount": 1110, "512 GB": { "sellAmount": 695 } }
+            }
+          }
+        },
+        "P30 Series": {
+          "P30 Pro": {
+            "512 GB": {
+              "sellAmount": 675,
+              "256 GB": {
+                "sellAmount": 695,
+                "128 GB": {
+                  "sellAmount": 595,
+                  "P30 Lite": { "64 GB": { "sellAmount": 150 } }
+                }
+              }
+            }
+          }
+        },
+        "P20 Series": {
+          "P20 Pro": {
+            "64 GB": {
+              "sellAmount": 175,
+              "256 GB": {
+                "sellAmount": 335,
+                "128 GB": { "sellAmount": 265, "64 GB": { "sellAmount": 120 } }
+              }
+            }
+          }
+        },
+        "P10 Series": {
+          "P10 Plus": {
+            "64 GB": {
+              "sellAmount": 80,
+              "128 GB": { "sellAmount": 100, "128 GB": { "sellAmount": 45 } }
+            }
+          }
+        },
+        "P Smart Series": {
+          "P Smart Pro (2019)": {
+            "128 GB": {
+              "sellAmount": 130,
+              "128 GB": {
+                "sellAmount": 125,
+                "128 GB": {
+                  "sellAmount": 100,
+                  "P Smart (2019)": {
+                    "64 GB": {
+                      "sellAmount": 165,
+                      "64 GB": { "sellAmount": 90 }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "Y Series": {
+        "Y9 Series": {
+          "Y9s": {
+            "128 GB": {
+              "sellAmount": 215,
+              "128 GB": {
+                "sellAmount": 175,
+                "Y9 Prime": { "64 GB": { "sellAmount": 130 } }
+              }
+            }
+          }
+        },
+        "Y8 Series": {
+          "Y8s": {
+            "64 GB": {
+              "sellAmount": 125,
+              "128 GB": { "sellAmount": 215, "128 GB": { "sellAmount": 210 } }
+            }
+          }
+        },
+        "Y7 Series": {
+          "Y7p": {
+            "64 GB": {
+              "sellAmount": 95,
+              "64 GB": {
+                "sellAmount": 135,
+                "128 GB": {
+                  "sellAmount": 190,
+                  "64 GB": {
+                    "sellAmount": 135,
+                    "32 GB": {
+                      "sellAmount": 95,
+                      "64 GB": { "sellAmount": 120 }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "Y6 Series": {
+          "Y6p": {
+            "64 GB": {
+              "sellAmount": 110,
+              "32 GB": { "sellAmount": 60, "64 GB": { "sellAmount": 105 } }
+            }
+          }
+        },
+        "Y33 Series": { "Y33s": { "128 GB": { "sellAmount": 215 } } }
+      },
+      "32 GB": {
+        "Y6 Series": {
+          "Y6p": {
+            "64 GB": {
+              "32 GB": {
+                "64 GB": {
+                  "sellAmount": 65,
+                  "32 GB": {
+                    "sellAmount": 70,
+                    "32 GB": {
+                      "sellAmount": 45,
+                      "32 GB": {
+                        "sellAmount": 60,
+                        "Y6 (2018)": { "16 GB": { "sellAmount": 50 } }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Mate 50 Pro": {
+      "Mate Series": {
+        "Mate 50 Series": {
+          "Mate 50 Pro": {
+            "512 GB": {
+              "sellAmount": 1260,
+              "256 GB": { "sellAmount": 1095, "256 GB": { "sellAmount": 640 } }
+            }
+          }
+        }
+      }
+    }
+  }
+}

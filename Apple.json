@@ -1,0 +1,164 @@
+{
+  "Mobile Phone": {
+    "Apple": {
+      "iPhone 14 (2022)": {
+        "512 GB": { "sellAmount": 2150 },
+        "256 GB": { "sellAmount": 2065 },
+        "128 GB": { "sellAmount": 1905 }
+      },
+      "iPhone 14 Plus (2022)": {
+        "512 GB": { "sellAmount": 2390 },
+        "256 GB": { "sellAmount": 2310 },
+        "128 GB": { "sellAmount": 2105 }
+      },
+      "iPhone 14 Pro (2022)": {
+        "512 GB": { "sellAmount": 3360 },
+        "256 GB": { "sellAmount": 3120 },
+        "128 GB": { "sellAmount": 2710 },
+        "1 TB": { "sellAmount": 3600 }
+      },
+      "iPhone 14 Pro Max (2022)": {
+        "512 GB": { "sellAmount": 4010 },
+        "256 GB": { "sellAmount": 3520 },
+        "128 GB": { "sellAmount": 3155 },
+        "1 TB": { "sellAmount": 4330 }
+      },
+      "iPhone SE (2022)": {
+        "64 GB": { "sellAmount": 435 },
+        "256 GB": { "sellAmount": 625 },
+        "128 GB": { "sellAmount": 560 }
+      },
+      "iPhone 13 Mini (2021)": {
+        "512 GB": { "sellAmount": 1300 },
+        "256 GB": { "sellAmount": 1230 },
+        "128 GB": { "sellAmount": 1165 }
+      },
+      "iPhone 13 (2021)": {
+        "512 GB": { "sellAmount": 1865 },
+        "256 GB": { "sellAmount": 1780 },
+        "128 GB": { "sellAmount": 1630 }
+      },
+      "iPhone 13 Pro (2021)": {
+        "512 GB": { "sellAmount": 2640 },
+        "256 GB": { "sellAmount": 2555 },
+        "128 GB": { "sellAmount": 2220 },
+        "1 TB": { "sellAmount": 2685 }
+      },
+      "iPhone 13 Pro Max (2021)": {
+        "512 GB": { "sellAmount": 2795 },
+        "256 GB": { "sellAmount": 2710 },
+        "128 GB": { "sellAmount": 2425 },
+        "1 TB": { "sellAmount": 2955 }
+      },
+      "iPhone 12 Mini (2020)": {
+        "64 GB": { "sellAmount": 855 },
+        "256 GB": { "sellAmount": 1260 },
+        "128 GB": { "sellAmount": 1080 }
+      },
+      "iPhone 12 (2020)": {
+        "64 GB": { "sellAmount": 1045 },
+        "256 GB": { "sellAmount": 1295 },
+        "128 GB": { "sellAmount": 1205 }
+      },
+      "iPhone 12 Pro (2020)": {
+        "512 GB": { "sellAmount": 1700 },
+        "256 GB": { "sellAmount": 1660 },
+        "128 GB": { "sellAmount": 1460 }
+      },
+      "iPhone 12 Pro Max (2020)": {
+        "512 GB": { "sellAmount": 2230 },
+        "256 GB": { "sellAmount": 2025 },
+        "128 GB": { "sellAmount": 1745 }
+      },
+      "iPhone SE (2020)": {
+        "64 GB": { "sellAmount": 335 },
+        "256 GB": { "sellAmount": 455 },
+        "128 GB": { "sellAmount": 410 }
+      },
+      "iPhone 11 (2019)": {
+        "64 GB": { "sellAmount": 785 },
+        "256 GB": { "sellAmount": 1015 },
+        "128 GB": { "sellAmount": 965 }
+      },
+      "iPhone 11 Pro (2019)": {
+        "64 GB": { "sellAmount": 920 },
+        "512 GB": { "sellAmount": 1260 },
+        "256 GB": { "sellAmount": 1160 }
+      },
+      "iPhone 11 Pro Max (2019)": {
+        "64 GB": { "sellAmount": 1110 },
+        "512 GB": { "sellAmount": 1420 },
+        "256 GB": { "sellAmount": 1420 }
+      },
+      "iPhone X (2017)": {
+        "64 GB": { "sellAmount": 495 },
+        "256 GB": { "sellAmount": 655 }
+      },
+      "iPhone XS (2018)": {
+        "64 GB": { "sellAmount": 545 },
+        "512 GB": { "sellAmount": 855 },
+        "256 GB": { "sellAmount": 765 }
+      },
+      "iPhone XS Max (2018)": {
+        "64 GB": { "sellAmount": 660 },
+        "512 GB": { "sellAmount": 935 },
+        "256 GB": { "sellAmount": 900 }
+      },
+      "iPhone XR (2018)": {
+        "64 GB": { "sellAmount": 530 },
+        "256 GB": { "sellAmount": 675 },
+        "128 GB": { "sellAmount": 605 }
+      },
+      "iPhone 8 (2017)": {
+        "64 GB": { "sellAmount": 290 },
+        "256 GB": { "sellAmount": 415 },
+        "128 GB": { "sellAmount": 310 }
+      },
+      "iPhone 8 Plus (2017)": {
+        "64 GB": { "sellAmount": 410 },
+        "256 GB": { "sellAmount": 605 },
+        "128 GB": { "sellAmount": 495 }
+      },
+      "iPhone 7 (2016)": {
+        "32 GB": { "sellAmount": 200 },
+        "256 GB": { "sellAmount": 290 },
+        "128 GB": { "sellAmount": 250 }
+      },
+      "iPhone 7 Plus (2016)": {
+        "32 GB": { "sellAmount": 225 },
+        "256 GB": { "sellAmount": 370 },
+        "128 GB": { "sellAmount": 325 }
+      },
+      "iPhone SE (2016)": {
+        "64 GB": { "sellAmount": 130 },
+        "32 GB": { "sellAmount": 125 },
+        "16 GB": { "sellAmount": 45 },
+        "128 GB": { "sellAmount": 170 }
+      },
+      "iPhone 6S Plus (2015)": {
+        "64 GB": { "sellAmount": 175 },
+        "32 GB": { "sellAmount": 120 },
+        "16 GB": { "sellAmount": 115 },
+        "128 GB": { "sellAmount": 195 }
+      },
+      "iPhone 6 (2014)": {
+        "64 GB": { "sellAmount": 85 },
+        "32 GB": { "sellAmount": 75 },
+        "16 GB": { "sellAmount": 50 },
+        "128 GB": { "sellAmount": 115 }
+      },
+      "iPhone 6 Plus (2014)": {
+        "64 GB": { "sellAmount": 145 },
+        "32 GB": { "sellAmount": 120 },
+        "16 GB": { "sellAmount": 75 },
+        "128 GB": { "sellAmount": 175 }
+      },
+      "iPhone 6S (2015)": {
+        "64 GB": { "sellAmount": 120 },
+        "32 GB": { "sellAmount": 95 },
+        "16 GB": { "sellAmount": 80 },
+        "128 GB": { "sellAmount": 165 }
+      }
+    }
+  }
+}
